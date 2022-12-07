@@ -2,4 +2,9 @@
     <string name="app_name">Photo Gallery</string>
     <string name="search">Buscar</string>
     <string name="clear_search">Eliminar busqueda</string>
+    <string name="notification_channel_name">Notificaciones de fondo</string>
+    <string name="new_pictures_title">Nuevas imagenes</string>
+    <string name="new_pictures_text">Hay nuevas imagens que no has visto.</string>
+    <string name="start_polling">Work in backgroud</string>
+    <string name="stop_polling">Don\'t work in backgroud</string>
 </resources>
